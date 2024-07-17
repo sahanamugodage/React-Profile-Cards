@@ -6,9 +6,6 @@ This is a simple React project to display profile cards with a hover effect. Eac
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
