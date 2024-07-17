@@ -12,7 +12,7 @@ This is a simple React project to display profile cards with a hover effect. Eac
 
 ## Demo
 
-![Profile Card Demo]
+Profile Card Demo
 ![React Cards](https://github.com/user-attachments/assets/ad3c12c6-8135-4aed-b2ec-cebcb2e7ec74)
 
 ## Features
