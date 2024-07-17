@@ -12,7 +12,8 @@ This is a simple React project to display profile cards with a hover effect. Eac
 
 ## Demo
 
-![Profile Card Demo](path_to_your_demo_image)
+![Profile Card Demo]
+![React Cards](https://github.com/user-attachments/assets/ad3c12c6-8135-4aed-b2ec-cebcb2e7ec74)
 
 ## Features
 
@@ -25,7 +26,7 @@ This is a simple React project to display profile cards with a hover effect. Eac
 To get a local copy up and running follow these simple steps.
 
 1. **Clone the repository**
-2. **Type Thses In the Command Prompt **
+2. **Type Thses In the Command Prompt**
        1. cd profile-card-project
        2. npm install
        3. npm start
